@@ -9,22 +9,46 @@
 
 <!-- Tab Buttons -->
 <ul id="tabstrip" class="nav nav-tabs" role="tablist">
-    <li class="active">
+    @* <li class="active">
       <a href="#_FirstTab" role="tab" data-toggle="tab">Submission</a>
     </li>
     <li>
       <a href="#_SecondTab" role="tab" data-toggle="tab">Search</a>
+    </li> *@
+     <li>
+      <a href="#_PengajuanPembukaanRekening" role="tab" data-toggle="tab">Pengajuan Pembukaan rekening</a>
+    </li>
+      <li>
+      <a href="#_ProfilingResiko" role="tab" data-toggle="tab">Profiling Resiko</a>
+    </li>
+      <li>
+      <a href="#_Lampiran" role="tab" data-toggle="tab">Lampiran</a>
+    </li>
+      <li>
+      <a href="#_Lainnya" role="tab" data-toggle="tab">Lainnya</a>
     </li>
 </ul>
 
 <!-- Tab Content Containers -->
 <div class="tab-content">
-    <div class="tab-pane fade in active" id="_FirstTab">
+    @* <div class="tab-pane fade in active" id="_FirstTab">
         <!-- Call partial view to load initial page load data -->
         @Html.Partial("_FirstTab")
     </div>
     <div class="tab-pane fade" id="_SecondTab">
  @Html.Partial("_SecondTab")
+    </div> *@
+      <div class="tab-pane fade in active" id="_PengajuanPembukaanRekening">
+ @Html.Partial("_PengajuanPembukaanRekening")
+    </div>
+      <div class="tab-pane fade" id="_ProfilingResiko">
+ @Html.Partial("_ProfilingResiko")
+    </div>
+      <div class="tab-pane fade" id="_Lampiran">
+ @Html.Partial("_Lampiran")
+    </div>
+      <div class="tab-pane fade" id="_Lainnya">
+ @Html.Partial("_Lainnya")
     </div>
 </div>
 

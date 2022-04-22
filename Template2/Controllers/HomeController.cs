@@ -43,7 +43,21 @@ namespace Template2.Controllers
         {
             return PartialView("_SecondTab");
         }
-
-        
+         public ActionResult Lainnya()
+        {
+            return PartialView("_Lainnya");
+        }
+         public ActionResult PengajuanPembukaanRekening()
+        {
+            return PartialView("_PengajuanPembukaanRekening");
+        }
+         public ActionResult ProfilingResiko()
+        {
+            return PartialView("_ProfilingResiko");
+        }
+         public ActionResult _Lampiran()
+        {
+            return PartialView("_Lampiran");
+        }
     }
 }

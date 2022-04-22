@@ -39,3 +39,7 @@ C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\r
 C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Template2.csproj.CopyComplete
 C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Razor\Views\Home\_FirstTab.cshtml.g.cs
 C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Razor\Views\Home\_SecondTab.cshtml.g.cs
+C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Razor\Views\Home\_Lainnya.cshtml.g.cs
+C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Razor\Views\Home\_Lampiran.cshtml.g.cs
+C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Razor\Views\Home\_PengajuanPembukaanRekening.cshtml.g.cs
+C:\data software 2022\Github 2022\bootstrap tab mvc\Template2\obj\Debug\net5.0\Razor\Views\Home\_ProfilingResiko.cshtml.g.cs

@@ -15624,6 +15624,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\data software 2022\\Github 2022\\bootstrap tab mvc\\Template2\\Views\\Home\\_Lainnya.cshtml",
+      "TargetPath": "Views\\Home\\_Lainnya.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\data software 2022\\Github 2022\\bootstrap tab mvc\\Template2\\Views\\Home\\_ProfilingResiko.cshtml",
+      "TargetPath": "Views\\Home\\_ProfilingResiko.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\data software 2022\\Github 2022\\bootstrap tab mvc\\Template2\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -15649,8 +15659,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\data software 2022\\Github 2022\\bootstrap tab mvc\\Template2\\Views\\Home\\_PengajuanPembukaanRekening.cshtml",
+      "TargetPath": "Views\\Home\\_PengajuanPembukaanRekening.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\data software 2022\\Github 2022\\bootstrap tab mvc\\Template2\\Views\\Home\\_FirstTab.cshtml",
       "TargetPath": "Views\\Home\\_FirstTab.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\data software 2022\\Github 2022\\bootstrap tab mvc\\Template2\\Views\\Home\\_Lampiran.cshtml",
+      "TargetPath": "Views\\Home\\_Lampiran.cshtml",
       "FileKind": "mvc"
     },
     {
